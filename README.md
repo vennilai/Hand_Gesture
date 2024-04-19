@@ -8,7 +8,11 @@ In today’s world we see lots of development in the technology field. Today’s
 The AI virtual mouse system makes use of the Transformational algorithm, and it converts the co-ordinates of fingertip from the webcam screen to the computer window full screen for controlling the mouse. When the hands are detected and when we find which finger is up for performing the specific mouse function, a rectangular box is drawn with respect to the computer window in the webcam region where we move throughout the window using the mouse cursor
 
 1.The Camera Used in the AI Virtual Mouse System
+
 2.Capturing the Video and Processing
+
 3.Virtual Screen Matching Rectangular Region for Moving through the Window
+
 4.Detecting Which Finger Is Up and Performing the Particular Mouse Function
+
 5.Mouse Functions Depending on the Hand Gestures and Hand Tip Detection Using Computer Vision
